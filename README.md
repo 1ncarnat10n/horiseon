@@ -10,7 +10,7 @@ Through this project, I learned about the significance of well-structured and se
 
 ## Website URL
 
-Insert link here
+[Updated Horiseon Webpage](https://1ncarnat10n.github.io/horiseon/)
 
 ## Installation
 
@@ -18,9 +18,7 @@ No extra programs were required for this challenge.
 
 ## Usage
 
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/digital-marketing-meeting.jpg)
+N/A
 
 ## Credits
 
